@@ -11,7 +11,6 @@ Welcome to the AI Character Recognition project! This project utilizes four diff
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
@@ -36,7 +35,7 @@ Character recognition is a fundamental task in the field of artificial intellige
 
 ## Dataset
 
-The project uses the EMNIST dataset, a collection of handwritten characters. This dataset is suitable for training and evaluating character recognition models. You can find more information about the EMNIST dataset [here](link-to-emnist-dataset).
+The project uses the EMNIST dataset, a collection of handwritten characters. This dataset is suitable for training and evaluating character recognition models. You can find more information about the EMNIST dataset [here](https://www.kaggle.com/datasets/crawford/emnist).
 
 ## Google Colab
 
@@ -63,9 +62,5 @@ Follow the instructions in the notebooks to train and evaluate each model. Custo
 ## Contributing
 
 If you'd like to contribute to this project, feel free to open issues, submit pull requests, or provide feedback. Contributions of all kinds are welcome!
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code for your own purposes.
 
 Happy coding!
