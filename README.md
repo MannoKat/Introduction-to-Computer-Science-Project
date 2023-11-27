@@ -1,5 +1,15 @@
 # Introduction to Computer Science Project
-# My team is Cốc Cốc!!!!!!
+# My group is Cốc Cốc!!!!!!
+## Our group Members
+   1. Phạm Đức Mạnh
+   2. Nguyễn Thiên Nguyên
+   3. Nguyễn Thanh Sơn
+   4. Nguyễn Thanh Tú
+   5. Nguyễn Hoàng Yến Ngọc
+   6. Võ Tấn Sang
+   7. Dỗ Nam Hải
+## Leader
+   Ph.D Lê Trọng Nhân
 
 Welcome to the AI Character Recognition project! This project utilizes four different machine learning models, including k-Nearest Neighbors (KNN), Support Vector Machine (SVM), Multilayer Perceptron (MLP), and Convolutional Neural Network (CNN) to perform character recognition on the EMNIST dataset. The code is designed to run seamlessly on Google Colab, making it easy for you to leverage the power of cloud computing.
 
