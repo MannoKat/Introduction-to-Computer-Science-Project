@@ -7,7 +7,7 @@
    4. Nguyễn Thanh Tú
    5. Nguyễn Hoàng Yến Ngọc
    6. Võ Tấn Sang
-   7. Dỗ Nam Hải
+   7. Đỗ Nam Hải
 ## Leader
    Ph.D Lê Trọng Nhân
 
