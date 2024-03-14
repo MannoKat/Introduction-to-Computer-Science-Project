@@ -1,4 +1,6 @@
 # Introduction to Computer Science Project
+
+Welcome to the AI Character Recognition project! This project utilizes four different machine learning models, including k-Nearest Neighbors (KNN), Support Vector Machine (SVM), Multilayer Perceptron (MLP), and Convolutional Neural Network (CNN) to perform character recognition on the EMNIST Letter dataset. The code is designed to run seamlessly on Google Colab, making it easy for you to leverage the power of cloud computing.
 # My group is Cốc Cốc!!!!!!
 ## Our group Members
    1. Phạm Đức Mạnh
@@ -11,7 +13,6 @@
 ## Leader
    Ph.D Lê Trọng Nhân
 
-Welcome to the AI Character Recognition project! This project utilizes four different machine learning models, including k-Nearest Neighbors (KNN), Support Vector Machine (SVM), Multilayer Perceptron (MLP), and Convolutional Neural Network (CNN) to perform character recognition on the EMNIST dataset. The code is designed to run seamlessly on Google Colab, making it easy for you to leverage the power of cloud computing.
 
 ## Table of Contents
 - [Overview](#overview)
